@@ -45,8 +45,20 @@ St. Mary’s University Ethiopia (2022–2026)
 
 ## 📊 GitHub Stats
 
-![Samrawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=samrawitsissay&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samrawitsissay&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrawitsissay&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samrawitsissay&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samrawitsissay&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samrawitsissay&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samrawitsissay&theme=tokyonight&utcOffset=3" />
+</p>
+
 
 ---
 
